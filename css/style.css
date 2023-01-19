@@ -85,7 +85,7 @@ header nav .branding{
 }
 .hero{
     padding:3rem 0;
-    background-image: url(/images/main-bg\ \(2\).jpg);
+    background-image: url(./images/main-bg\ \(2\).jpg);
     background-position: center;
     background-size: cover;
     isolation: isolate;
